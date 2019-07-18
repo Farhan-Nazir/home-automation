@@ -1,0 +1,29 @@
+{
+  "name": "home-automation",
+  "version": "1.0.0",
+  "description": "Home automation with Raspberry PI",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Farhan-Nazir/home-automation.git"
+  },
+  "keywords": [
+    "home-automation",
+    "iot",
+    "home",
+    "server"
+  ],
+  "author": "Farhan Nazir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Farhan-Nazir/home-automation/issues"
+  },
+  "homepage": "https://github.com/Farhan-Nazir/home-automation#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.2.0"
+  }
+}
